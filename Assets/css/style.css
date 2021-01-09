@@ -1,0 +1,29 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.navbar-brand {
+  font-family: 'Roboto';
+  font-weight: 700;
+}
+
+header {
+background-image: url('../img/Karina.JPG');
+background-size: cover;
+width: 100%;
+}
+
+.carousel-indicators {
+  top: 220px;
+}
+
+.carousel-indicators li {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background-color: #000000;
+}
+
+.icons-section {
+background-size: cover;
+}
